@@ -1,0 +1,3 @@
+repository "Project DICE@How_To_Make_Games@cloud"
+  path "/"
+    smartbranch "/main"

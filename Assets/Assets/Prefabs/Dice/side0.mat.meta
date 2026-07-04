@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d0a10ad5bdfe2454bb5e8cf4b03dd3f2
+labels:
+- Dice
+- DiceSide
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: dicesides
+  assetBundleVariant: 
